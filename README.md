@@ -24,5 +24,5 @@ To run this project, you need to set up the following environment:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/TrDosePred.git
+git clone https://github.com/Patrick-Geo7/TrDosePred
 cd TrDosePred
